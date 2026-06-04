@@ -4,5 +4,5 @@
 # Addition
  a+b=c
  
-#Subtraction
-
+# Subtraction
+a-b=c
